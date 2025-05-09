@@ -3,7 +3,7 @@
 
 A basic electronic door lock system using an Arduino, keypad, and servo motor. The door unlocks only when the correct 4-digit passcode is entered.
 
----
+---------
 
 ## 🧰 Components
 
@@ -13,7 +13,7 @@ A basic electronic door lock system using an Arduino, keypad, and servo motor. T
 - Jumper Wires
 - Breadboard
 
----
+--------
 
 ## ⚙️ How It Works
 
